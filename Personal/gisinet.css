@@ -1,0 +1,18 @@
+.center {
+  text-align: center;
+
+}
+.container-sm {
+  background-color: rgb(26, 61, 94);
+  color: white;
+}
+/* .container button {
+  color: inherit;
+} */
+.th {
+  font-style: italic;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: greenyellow;
+
+}
